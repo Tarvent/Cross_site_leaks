@@ -1,4 +1,4 @@
-# Cross-leaks 検知c
+# Cross-leaks 検知ツール
 
 Cross-leaks Browser Test 
 
